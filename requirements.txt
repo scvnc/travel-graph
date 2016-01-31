@@ -1,0 +1,7 @@
+SQLAlchemy==1.0.9
+decorator==4.0.4
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.24dev-r0
+networkx==1.10
+numpy==1.10.1
+wsgiref==0.1.2
